@@ -1,0 +1,10 @@
+# Ignorar dependencias (GitHub leerá composer.json para instalarlas después)
+/vendor/
+
+# Ignorar credenciales y configuración
+php/conexion.php
+php/config.php
+
+# Ignorar archivos del sistema
+.DS_Store
+Thumbs.db
