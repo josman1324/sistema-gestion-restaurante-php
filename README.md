@@ -22,8 +22,8 @@ Sistema integral desarrollado en **PHP** y **MySQL** para automatizar el flujo d
 Sigue estos pasos para probar el proyecto en tu entorno local (XAMPP/WAMP):
 
 1.  **Clonar el repositorio**
-    ```bash
-   git clone https://github.com/josman1324/sistema-gestion-restaurante-php.git
+    ```bash 
+    git clone https://github.com/josman1324/sistema-gestion-restaurante-php.git
     ```
 
 2.  **Base de Datos**
