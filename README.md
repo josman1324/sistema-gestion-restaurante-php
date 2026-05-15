@@ -23,7 +23,7 @@ Sigue estos pasos para probar el proyecto en tu entorno local (XAMPP/WAMP):
 
 1.  **Clonar el repositorio**
     ```bash
-    git clone [https://github.com/TU_USUARIO/NOMBRE_DEL_REPO.git](https://github.com/TU_USUARIO/NOMBRE_DEL_REPO.git)
+   git clone https://github.com/josman1324/sistema-gestion-restaurante-php.git
     ```
 
 2.  **Base de Datos**
